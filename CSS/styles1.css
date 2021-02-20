@@ -1,0 +1,42 @@
+body {
+  background-color: #e3d0b9;
+
+}
+
+h1 {
+  font-family: 'Cookie', cursive;
+color: #03506f;
+font-size: 562.5%;
+}
+
+h3 {
+  font-family: 'Volkhov', serif;
+  color: #719fb0;
+}
+
+p {
+  font-family: 'Karma', serif;
+  color: #0a043c;
+}
+
+.top-container {
+ position: relative;
+margin-left: 400px;
+text-align: center;
+  font-family: 'Karma', serif;
+}
+
+.middle-container {
+  color: #0a043c;
+    font-family: 'Karma', serif;
+}
+
+.bottom-container {
+  color: #0a043c;
+    font-family: 'Karma', serif;
+}
+
+.contact-top {
+  color: #0a043c;
+    font-family: 'Karma', serif;
+}
